@@ -21,13 +21,13 @@
 - ~~moodle: teknisiä apuvälineitä~~
 - ~~moodle: Julkaisufoorumeja ja ACM-luokitus~~
 - ~~omatoimitehtävä B~~
-- tiedonhaun muistilista
-  - mistä
-  - muuttuuko kohdistus työn edetessä ja miten
-  - miten keräät lähdeviitteet ja teet niihin muistiinpanoja
-  - miten siirrät lähdeviitteet tutkielmasi osaksi
-  - miten varmistat viitteiden olevan oikein kategorisoituja
-    - teemoittain
+- ~~tiedonhaun muistilista~~
+  - ~~mistä~~
+  - ~~muuttuuko kohdistus työn edetessä ja miten~~
+  - ~~miten keräät lähdeviitteet ja teet niihin muistiinpanoja~~
+  - ~~miten siirrät lähdeviitteet tutkielmasi osaksi~~
+  - ~~miten varmistat viitteiden olevan oikein kategorisoituja~~
+  - ~~githubiin~~
 
 - Lue bibliografisista tiedoista ja lähdeluettelosta (powerpoint=windows)
 - aikataulusta ensimmäinen versio
@@ -53,7 +53,6 @@
       - analyze results silmäily
     - Scholar
     - Dimensions
-    (eli saat oikeanmutoisia bibliografisia kirjauksia lähdeluetteloosi)
   - alustavat otsikot
     - ks. moodle: Tieteellisen tekstin rakenne
   - jäsentely
