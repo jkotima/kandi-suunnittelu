@@ -10,7 +10,8 @@
       - huomio siihen, että saattaa sisältää "mitä vain", esim. vertaisarvioimatonta
     - Dimensions
       - kokeilu ainakin mielenkiinnosta
-  
+    - Jo löydettyjen artikkelien related work, lähdeviitteet
+
   - tiedonhaun kohdistus muuttuu työn edetessä
     - tiedonhakua tulisi tapahtua aina käsiteltävän aiheen mukaan työn edetessä
     - jos jotain erittäin kiinnostavaa löytyy, voidaan selailla ko. aihetta
@@ -22,12 +23,14 @@
       vastaa ko. "lempinimeä"
         - muistiinpanot sisältää mm.
           - oma lyhyt tiivistelmä artikkelista
-          - tärkeimpiä pointteja
+          - tärkeimpiä tutkimustuloksia
+          - syy-seuraussuhteet
           - ristiriidat muihin lähteisiin
       - viitteiden kategorisointi: .txt tiedostot voi järjestää teemoittain kansioihin
     - lähdeviitteet saa suoraan tietokannasta ulos bibtex-muodossa
       - jos ei saa, etsitään sama artikkeli jostain toisesta, josta saa 
-  
+    - jos mahdollista, ladataan artikkelien pdf:t helpompaa tarkastelua varten
+
   - lähdeviitteet siirretään tutkielman osaksi käyttämällä bitexiä (/cite)
     - tämä tulisi tapahtua mahdollisimmain aikaisessa vaiheessa kirjoitusprosessia,
     mieluiten samanaikaisesti tekstin tuottamisen yhteydessä

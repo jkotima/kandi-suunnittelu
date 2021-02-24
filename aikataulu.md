@@ -30,11 +30,29 @@
   - ~~githubiin~~
 
 - Lue bibliografisista tiedoista ja lähdeluettelosta (powerpoint=windows)
-- aikataulusta ensimmäinen versio
+- ~~aikataulusta ensimmäinen versio~~
   - ~~pohjaksi kurssin aikataululuonnos moodlesta~~
-  - asiat jotka löytyy moodlesta/tulee mieleen
-  - luento5 asiota
-  - githubiin
+  - ~~asiat jotka löytyy moodlesta/tulee mieleen~~
+  - ~~luento5 asiota~~
+  - ~~githubiin~~
+
+- Aihepiirin hahmottaminen
+  - mitä aihepiiristä halutaan haasteena ratkaista?
+    - lähtökohta: best practices arkkitehtuurisuunnittelu-agile-combination
+      - tutkimushaku/haahuilu:
+        - upfront (waterfall meininki)
+        - in sprints
+        - sprint 0
+        - seperate team
+        - kirjoitelmassa käytetyt lähteet
+          - RQ2 mapping studyssä
+          - kirja
+  - minkälaisia tutkimusmenetelmiä käytetään?
+    - googlaa tutkimusmenetelmät, kandi jne
+    - mitä on saatavilla
+  - mitkä ovat keskeiset käsitteet (ja termit) ja mitkä periaatteet
+  tai ratkaisumallit vakiintuineita
+
 - työsuunnitelmasta ensimmäinen versio
   - luento5 hyödyntäminen
   - aineen jäsentely
@@ -56,8 +74,8 @@
   - alustavat otsikot
     - ks. moodle: Tieteellisen tekstin rakenne
   - jäsentely
-  - kirjoita
-    - suunnittelu, luonnostelu, muokkaaminen, viimeistely
+    - Luonnostele koko tutkielman sisällys ja päälukujen tehtävät
+      - käytä kandipohjia
   - githubiin
 - ryhmän tiedonhakuun koskevaan keskusteluun osallistuminen (moodlessa)
   - muutama suunnittelukohta, ns. purkumenetelmänä
@@ -66,9 +84,17 @@
 - luento
 - moodle: Käsikirja lähdemateriaalin detaljeista
 - keskustelu ohjaajan kanssa
+  - aihepiiristä keskustelu
+    - laajuus sopiva?
   - jäsentelystä keskustelu
   - työsuunnitelmasta keskustelu
   - lähdeluettelosta keskustelu
+  - minkälaisia siirtoja tutkielmaan voi sijoittua
+- aiheen selkeytyminen
+  - kaventaminen
+    - näkökulma
+    - kenen hyödyksi haastetta ratkotaan
+    - mikä osuus haasteen ratkaisusta käsitellään ja miksi
 ## Viikko 9
 - (keskustelu ohjaajan kanssa)
   - aineen luonnos
