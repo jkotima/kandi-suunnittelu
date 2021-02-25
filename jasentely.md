@@ -4,7 +4,6 @@
 - Sisältö
 1. Johdanto
     - mitä työssä käsitellään ja mitkä ovat sen tavoitteet
-    - Ketterän arkkitehtuurin määritelmä 
     - (ristiriidat suunnittelun ja ketteryyden välillä)
     - ks. ensimmäinen tehtävä (essee)
     - Konteksti: auttaa ketterää sovelluskehittäjää suhtautumaan
@@ -18,11 +17,11 @@
     - Lukujen roolitus
 
 2. Ketterä arkkitehtuuri
-    - ...
     - Ohjelmistoarkkitehtuuri ja ketterä ohjelmistokehitys
-      - Ohjelmistoarkkitehtuurin määrittely
+      - Ohjelmistoarkkitehtuurin määritelmä
+      - Ketterän arkkitehtuurin määritelmä 
       - Ketterästä ohjelmistokehityksestä (sen tavoitteet)
-      - haasteet ja vastakkainasettelu
+      - haasteet ja vastakkainasettelu (agile vs architecture)
     - Arkkitehtuurisuunnittelun ajoitus
       - ...
       - Big design up front
@@ -41,7 +40,7 @@
     - Aikainen arvontuotto
       - (mm. millaisissa tilanteissa aikainen arvontuotto vs. riski)
     - Asiakkaan ketteryys
-      - (asiakkaan "asenteilla" suuri vaikutus)
+      - (asiakkaan "asenteilla" suuri vaikutus ketteryyteen)
     - Vaatimusten epävakaus
       - (miten vaikuttaa ja mitkä vaikuttaa vaatimusten epävakauteen)
     - Tiimin kulttuuri ja kokemus arkkitehtuureista
