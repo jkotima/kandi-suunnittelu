@@ -1,5 +1,5 @@
 ## Kanditutkielman suunnitteludokumentteja
 
-[Aikataulu ja TODO-hahmotelma](../blob/master/aikataulu.md)
-[Jäsentelyhahmotelma](../blob/master/jasentely.md)
-[Tiedonhakusuunnitelma](../blob/master/tiedonhaku.md)
+[Aikataulu ja TODO-hahmotelma](../master/aikataulu.md)
+[Jäsentelyhahmotelma](../master/jasentely.md)
+[Tiedonhakusuunnitelma](../master/tiedonhaku.md)
