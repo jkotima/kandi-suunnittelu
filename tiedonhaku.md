@@ -13,25 +13,16 @@
     - Jo löydettyjen artikkelien related work, lähdeviitteet
 
   - tiedonhaun kohdistus muuttuu työn edetessä
-    - tiedonhakua tulisi tapahtua aina käsiteltävän aiheen mukaan työn edetessä
-    - jos jotain erittäin kiinnostavaa löytyy, voidaan selailla ko. aihetta
+    - tiedonhakua tulisi tapahtua ja kohdistaa aina käsiteltävän aiheen mukaan työn edetessä
 
   - lähdeviitteiden keräys
-    - lähdeviitteet kerätään suoraan bibliography.bib -tiedostoon
-      - kullakin lähteellä on jokin "lempinimi", joka on siis käytössä myös bibtexissä
-      - lähteiden muistiinpanot tehdään erillisiin .txt tiedostihin, joiden nimeäminen
-      vastaa ko. "lempinimeä"
-        - muistiinpanot sisältää mm.
-          - oma lyhyt tiivistelmä artikkelista
-          - tärkeimpiä tutkimustuloksia
-          - syy-seuraussuhteet
-          - ristiriidat muihin lähteisiin
-      - viitteiden kategorisointi: .txt tiedostot voi järjestää teemoittain kansioihin
-    - lähdeviitteet saa suoraan tietokannasta ulos bibtex-muodossa
-      - jos ei saa, etsitään sama artikkeli jostain toisesta, josta saa 
-    - jos mahdollista, ladataan artikkelien pdf:t helpompaa tarkastelua varten
-
-  - lähdeviitteet siirretään tutkielman osaksi käyttämällä bitexiä (/cite)
+    - käytetään Zoteroa
+      - viitteet voi järjestestää kategorioiden mukaan kansioihin
+      - viitteisiin voi tallentaa pdf:t
+      - viitteisiin voi tehdä muistiinpanoja
+      - lähdeviitteet saa exportattua bibtexinä
+    
+  - lähdeviitteet siirretään tutkielman osaksi käyttämällä bitexiä, biberiä (/cite)
     - tämä tulisi tapahtua mahdollisimmain aikaisessa vaiheessa kirjoitusprosessia,
     mieluiten samanaikaisesti tekstin tuottamisen yhteydessä
       - tällä vältetään, ettei unohdeta, minkä lähteen pohjalta ollaan kirjoitettu

@@ -1,4 +1,4 @@
-- Kansisivu, otsikko: Arkkitehtuuri ketterässä ohjelmistokehityksessä: suunnittelukäytänteet ja niiden valinta
+- Kansisivu, otsikko: Arkkitehtuurisuunnittelu ketterässä ohjelmistokehityksessä
 
 - Tiivistelmä
 - Sisältö
@@ -6,14 +6,13 @@
   - mitä työssä käsitellään ja mitkä ovat sen tavoitteet
   - Ketterän arkkitehtuurin määritelmä 
   - (ristiriidat suunnittelun ja ketteryyden välillä)
-  - ks. ensimmäinen tehtävä
+  - ks. ensimmäinen tehtävä (essee)
   - Konteksti: auttaa ketterää sovelluskehittäjää suhtautumaan
-   arkkitehtuurisuunnitteluun olkealla tavalla eri projektiympäristöissä,
+   arkkitehtuurisuunnitteluun olkealla tavalla erilaisissa projektiympäristöissä,
     etenkin koska arkkitehtuurisuunnittelusta ei puhuta mitään ketterissä projektinhallinnan viitekehyksissä.
   - Tutkimuskysymys:
     - Kootaan tapoja, jolla arkkitehtuurisuunnittelu yhdistetään osaksi ketterää sovelluskehitystä ja esitellään millä perusteella nämä strategiat tulisi valita
       - pohditaan myös, minkälaisissa käytännön yhteyksissä strategiat voisivat toimia
-      - mitä tutkimustietoa näistä on
   - Tutkimusmenetelmä: tutkielma pohjautuu kirjallisuuteen
   - Tulosten yhteenveto
   - Lukujen roolitus
@@ -34,33 +33,35 @@
         - (mikä)
         - Minimum viable architecture
 
-3. Ketterän arkkitehtuurin suunnitteluun vaikuttavat tekijät
+3. Arkkitehtuurin suunnittelustrategia ketterissä menetelmissä
+  (lähinnä mitkä vaikuttaa siihen, kuinka paljon etukäteissuunnittelua pitää tehdä)
   - ...
   - Riski
-    - (miten riski vaikuttaa ajoitukseen ja miten sitä voi tunnistaa)
+    - (miten riski vaikuttaa as-ajoitukseen ja miten sitä voi tunnistaa)
   - Aikainen arvontuotto
     - (mm. millaisissa tilanteissa aikainen arvontuotto vs. riski)
   - Asiakkaan ketteryys
     - (asiakkaan "asenteilla" suuri vaikutus)
   - Vaatimusten epävakaus
-    - (miten vaikuttaa ja mitkä vaikuttaa)
-  - Tiimin kulttuuri ja arkkitehtuurillinen kokemus
+    - (miten vaikuttaa ja mitkä vaikuttaa vaatimusten epävakauteen)
+  - Tiimin kulttuuri ja kokemus arkkitehtuureista
     - (mitä näillä tarkoitetaan)
-- Apukeinot ketteryyden saavuttamiseksi
-  - Sovelluskehykset ja referenssiarkkitehtuurit
-    - (mitä hyötyä on frameworkeista, milloin niitä voi käyttää, milloin ei)
-    - mikroarkkitehtuurit :)
-  - Muutokseen reagointia (ketteryyttä) parantavat taktiikat
--Käytännön esimerkkejä tms
-  - kuinka mennyt?
 
-4. (Arkkitehdin rooli ketterässä ohjelmistokehityksessä)
+4. Ketterän arkkitehtuurin käytänteet
+  - Sovelluskehykset ja referenssiarkkitehtuurit
+    - (mitä hyötyä on frameworkeista, niiden käyttötapaukset)
+    - mikroarkkitehtuurit :) (soveltuvuus inkrementaaliseen arkkitehtuuriin)
+  - Muutokseen reagointia (ketteryyttä) parantavat taktiikat
+  -Käytännön esimerkkejä tms, caset
+    - tutkimusta siitä, kuinka mennyt? mitä opittu?
+
+5. (Arkkitehdin rooli ketterässä ohjelmistokehityksessä)
   - erillinen arkkitehti/arkkitehtitiimi, arkkitehtuurin yhteisomistajuus, 
   skaalattu agile, kommunikointi (Architecture Knowledge Management)
   - pohdintaa arkkitehdin roolista erilaisissa viitekehyksissä
 
-3. Johtopäätökset
-  - blaablaa sopii tilanteisiin blaablaablaa
+6. Johtopäätökset
+  - blaablaa sopii etenkin tilanteisiin blaablaablaa
   - tulee tarkasti harkita etenkin blaablaablaa
   - arkkitehti blaalbalb
 - Yhteenveto
