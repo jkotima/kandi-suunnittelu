@@ -13,7 +13,7 @@
 - ~~kirjoitelman muodostelua~~
 ## ~~Viikko 6~~
 - ~~kirjoitelma valmiiksi~~
-## Viikko 7
+## ~~Viikko 7~~
 - ~~keskustelu ohjaajan kanssa~~
 - ~~luento 5~~
 - ~~tiedonhakukurssi/tieteellisen teidon haun materiaali~~
@@ -39,70 +39,69 @@
 - Aihepiirin hahmottaminen
   - mitä aihepiiristä halutaan haasteena ratkaista?
     - lähtökohta: best practices arkkitehtuurisuunnittelu-agile-combination
-      - tutkimushaku/haahuilu:
-        - upfront (waterfall meininki)
-        - in sprints
-        - sprint 0
-        - seperate team
-        - kirjoitelmassa käytetyt lähteet
-          - RQ2 mapping studyssä
-          - kirja
-  - minkälaisia tutkimusmenetelmiä käytetään?
-    - googlaa tutkimusmenetelmät, kandi jne
-    - mitä on saatavilla
-  - mitkä ovat keskeiset käsitteet (ja termit) ja mitkä periaatteet
-  tai ratkaisumallit vakiintuineita
+      - ~~tutkimushaku/haahuilu~~:
+        - ~~upfront (waterfall meininki)~~
+        - ~~in sprint~~s
+        - ~~sprint 0~~
+        - ~~seperate team~~
+        - ~~kirjoitelmassa käytetyt lähteet~~
+          - ~~RQ2 mapping studyssä~~
+          - ~~kirja~~
+  - ~~mitkä ovat keskeiset käsitteet (ja termit) ja mitkä periaatteet
+  tai ratkaisumallit vakiintuineita~~
 
-- työsuunnitelmasta ensimmäinen versio
-  - luento5 hyödyntäminen
-  - aineen jäsentely
-    - karkea: miten teksti suurinpiirtein etenee
-    - kirjaa muutama selkeä ajatus kokonaisena
-    - syyt ja seurakset -kaaviot
-  - githubiin
+- ~~työsuunnitelmasta ensimmäinen versio~~
+  - ~~luento5 hyödyntäminen~~
+  - ~~aineen jäsentely~~
+    - ~~karkea: miten teksti suurinpiirtein etenee~~
+    - ~~kirjaa muutama selkeä ajatus kokonaisena~~
+    - ~~syyt ja seurakset -kaaviot~~
+  - ~~githubiin~~
 
 
-- aineen hahmottelua
-  - artikkelien keruu (.bib tiedostoon)
-    - acm digital library
-        - luokituksen perusteella
-    - IEEE Xplore
-    - Scopus
-      - analyze results silmäily
-    - Scholar
-    - Dimensions
-  - alustavat otsikot
-    - ks. moodle: Tieteellisen tekstin rakenne
-  - jäsentely
-    - Luonnostele koko tutkielman sisällys ja päälukujen tehtävät
-      - käytä kandipohjia
-  - githubiin
-- ryhmän tiedonhakuun koskevaan keskusteluun osallistuminen (moodlessa)
-  - muutama suunnittelukohta, ns. purkumenetelmänä
-- ensi viikon ohjaajakeskusteluajan varaaminen
+- ~~aineen hahmottelua
+  - ~~artikkelien keruu (.bib tiedostoon)~~
+    - ~~acm digital library~~
+        - ~~luokituksen perusteella~~
+    - ~~IEEE Xplore~~
+    - ~~Scopus~~
+      - ~~analyze results silmäily~~
+    - ~~Scholar~~
+    - ~~Dimensions~~
+  - ~~alustavat otsikot~~
+    - ~~ks. moodle: Tieteellisen tekstin rakenne~~
+  - ~~jäsentely~~
+    - ~~Luonnostele koko tutkielman sisällys ja päälukujen tehtävät~~
+      - ~~käytä kandipohjia~~
+  - ~~githubiin~~
+- ~~ryhmän tiedonhakuun koskevaan keskusteluun osallistuminen (moodlessa)~~
+  - ~~muutama suunnittelukohta, ns. purkumenetelmänä~~
+- ~~ensi viikon ohjaajakeskusteluajan varaaminen~~
 ## Viikko 8
-- luento
-- moodle: Käsikirja lähdemateriaalin detaljeista
-- keskustelu ohjaajan kanssa
-  - aihepiiristä keskustelu
-    - laajuus sopiva?
-  - jäsentelystä keskustelu
-  - työsuunnitelmasta keskustelu
-  - lähdeluettelosta keskustelu
-  - minkälaisia siirtoja tutkielmaan voi sijoittua
-- aiheen selkeytyminen
-  - kaventaminen
-    - näkökulma
-    - kenen hyödyksi haastetta ratkotaan
-    - mikä osuus haasteen ratkaisusta käsitellään ja miksi
-## Viikko 9
-- (keskustelu ohjaajan kanssa)
-  - aineen luonnos
-  - lähteiden laatu ja kattavuus
-## Viikko 10
-- aineen työstäminen
+- ~~luento~~
+- ~~moodle: Käsikirja lähdemateriaalin detaljeista~~
+- ~~keskustelu ohjaajan kanssa~~
+  - ~~aihepiiristä keskustelu~~
+    - ~~laajuus sopiva?~~
+  - ~~jäsentelystä keskustelu~~
+  - ~~työsuunnitelmasta keskustelu~~
+  - ~~lähdeluettelosta keskustelu~~
+  - ~~minkälaisia siirtoja tutkielmaan voi sijoittua~~
+- ~~aiheen selkeytyminen~~
+  - ~~kaventaminen~~
+    - ~~näkökulma~~
+    - ~~kenen hyödyksi haastetta ratkotaan~~
+    - ~~mikä osuus haasteen ratkaisusta käsitellään ja miksi~~
+## ~~Viikko 9~~
+- ~~(keskustelu ohjaajan kanssa)~~
+  - ~~aineen luonnos~~
+  - ~~lähteiden laatu ja kattavuus~~
+## ~~Viikko 10~~
+- ~~aineen työstäminen~~
 ## Viikko 11
-- aineen työstäminen
+- aineen työstäminen 
+- aine sille mallille, että rakenne kasassa (Viim torstai)
+- keskusteluaika
 ## Viikko 12
 - aineen palautus (maanantaiaamu)
 ## Viikko 13
