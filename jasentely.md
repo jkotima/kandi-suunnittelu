@@ -18,7 +18,28 @@
     - Tulosten yhteenveto *
     - Lukujen roolitus *
 
-2. Arkkitehtuurisuunnittelun käytänteet
+2. Ketterät menetelmät ja suunnittelu
+    - suunnittelu perinteisessä ohjelmistotuotannossa
+    - ketterät menetelmät
+
+
+3. Arkkitehtuurin apuvälineet
+    - johdanto
+    
+    - arkkitehtuuritarpeet!
+    - ohjelmistokehykset
+      - määrittely
+      - esimerkkejä ohjelmistokehyksistä
+    - referenssiarkkitehtuurit
+      - määrittely
+      - referenssiarkkitehtuureista
+    - ohjelmarungot
+      - määrittely
+      - esimerkkejä ohjelmarungoista
+      - walking skeleton, skeleton system
+    - arkkitehtuurin kuvaus!
+
+4. Arkkitehtuurisuunnittelun käytänteet
     - johdanto
     - ketterän arkkitehtuurin lähtökohta
       - määrittely
@@ -32,24 +53,13 @@
     - kehityksen aikainen suunnittelu
       - määrittely
       - muut nimet: incremental a, emergent
+      - arkkitehtuuriprototyypit
+        - spike solution
     - erillinen arkkitehtuuritiimi
       - määrittely
       - tavat (roolit)
-3. Arkkitehtuurin apuvälineet
-    - johdanto
-    - ohjelmarungot
-       - määrittely
-      - esimerkkejä ohjelmarungoista
-    - ohjelmistokehykset
-      - määrittely
-      - esimerkkejä ohjelmistokehyksistä
-    - arkkitehtuuriprototyypit
-      - määrittely
-      - esimerkkejä arkkitehtuuriprototyypit
-    - referenssiarkkitehtuurit
-      - määrittely
-      - referenssiarkkitehtuureista
-4. Arkkitehtuurisuunnittelun strategia
+
+5. Arkkitehtuurisuunnittelun strategia
     - riskin vaikutus ja tunnistaminen
     - vaatimusten epävakaus
         - Muutokseen reagointia (ketteryyttä) parantavat taktiikat
@@ -57,7 +67,8 @@
     - tiimin kulttuurin ja kokemuksen vaikutus
     - projektin koko
     - asiakas
-5. Yhteenveto
+  
+6. Yhteenveto
     - blaablaa sopii etenkin tilanteisiin blaablaablaa
     - tulee tarkasti harkita etenkin blaablaablaa
     - arkkitehti blaalbalb

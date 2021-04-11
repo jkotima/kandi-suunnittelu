@@ -99,23 +99,29 @@
 ## ~~Viikko 10~~
 - ~~aineen työstäminen~~
 ## Viikko 11
-- aineen työstäminen 
-- aine sille mallille, että rakenne kasassa (Viim torstai)
-- keskusteluaika
+- ~~aineen työstäminen ~~
+- ~~aine sille mallille, että rakenne kasassa (Viim torstai)~~
+- ~~keskusteluaika~~
 ## Viikko 12
-- aineen palautus (maanantaiaamu)
+- ~~aineen palautus (maanantaiaamu)~~
 ## Viikko 13
+- ~~pääsiäisviikko~~
+- ~~tutkielman hahmottelu~~
+## Viikko 14
+- tutkielman työstäminen
+  - github alustus
+  - uudet kohdat
+  - lähteitä vanhoihin kohtiin
+  - lähteitä uusiin kohtiin
 - palautteen hankkiminen aineesta
 - tutkielman kehittämiskeskustelu ohjaajan kanssa
 - esitelmän valmistelu
   - moodle: tieteelliset esitelmät ja niiden valmistelu
-## Viikko 14
-- kypsyysnäyte?
-- esitelmät
 ## Viikko 15
 - tutkielman luonnoksesta palautteeen hankkiminen / muutostyöt
-- esitelmät
+- esitelmät?
 ## Viikko 16
+- kypsyysnäyte?
 - esitelmät
 ## Viikko 17
 - tutkielman lukujen roolit, sitoutuminen toisiinsa, analyyttinen ja arvioiva, 
