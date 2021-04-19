@@ -109,7 +109,7 @@
 - ~~tutkielman hahmottelu~~
 ## Viikko 14
 - tutkielman työstäminen
-  - github alustus
+  - ~~github alustus~~
   - uudet kohdat
   - lähteitä vanhoihin kohtiin
   - lähteitä uusiin kohtiin

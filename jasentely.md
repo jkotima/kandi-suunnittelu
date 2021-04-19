@@ -59,7 +59,7 @@
       - määrittely
       - tavat (roolit)
 
-5. Arkkitehtuurisuunnittelun strategia
+5. Arkkitehtuurisuunnittelu etukäteen
     - riskin vaikutus ja tunnistaminen
     - vaatimusten epävakaus
         - Muutokseen reagointia (ketteryyttä) parantavat taktiikat
